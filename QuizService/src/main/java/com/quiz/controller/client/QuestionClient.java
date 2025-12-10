@@ -8,7 +8,8 @@ import org.springframework.web.bind.annotation.PathVariable;
 
 import com.quiz.response.QuestionRes;
 
-@FeignClient(name = "Question-Service" , url = "http://localhost:8083")
+
+@FeignClient(name = "QUESTION-SERVICE" )
 public interface QuestionClient {
 
 	@GetMapping("/questions/quiz/{quizId}")
