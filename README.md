@@ -112,6 +112,4 @@ All APIs were tested using:
 **Saquib**  
 Java Backend Developer | Spring Boot | Microservices | REST APIs  
 
----
 
-##  If you like this project, don't forget to give it a star!
